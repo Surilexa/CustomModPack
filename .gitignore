@@ -1,0 +1,13 @@
+# Ignore mods jar files
+/mods/*.jar
+
+# Ignore client cache and runtime stuff
+/.minecraft/
+/logs/
+/crash-reports/
+/saves/
+/.cache/
+
+# Ignore temporary system files
+*.DS_Store
+thumbs.db
